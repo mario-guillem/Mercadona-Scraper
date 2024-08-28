@@ -1,0 +1,179 @@
+ID,Name
+12,"Aceite, especias y salsas"
+112,"Aceite, vinagre y sal"
+115,Especias
+116,"Mayonesa, ketchup y mostaza"
+117,Otras salsas
+18,Agua y refrescos
+156,Agua
+163,Isotónico y energético
+158,Refresco de cola
+159,Refresco de naranja y de limón
+161,Tónica y bitter
+162,Refresco de té y sin gas
+15,Aperitivos
+135,Aceitunas y encurtidos
+133,Frutos secos y fruta desecada
+132,Patatas fritas y snacks
+13,"Arroz, legumbres y pasta"
+118,Arroz
+121,Legumbres
+120,Pasta y fideos
+9,"Azúcar, caramelos y chocolate"
+89,Azúcar y edulcorante
+95,Chicles y caramelos
+92,Chocolate
+97,Golosinas
+90,Mermelada y miel
+24,Bebé
+216,Alimentación infantil
+219,Biberón y chupete
+218,Higiene y cuidado
+217,Toallitas y pañales
+19,Bodega
+164,Cerveza
+166,Cerveza sin alcohol
+181,Licores
+174,Sidra y cava
+168,Tinto de verano y sangría
+170,Vino blanco
+173,Vino lambrusco y espumoso
+171,Vino rosado
+169,Vino tinto
+8,"Cacao, café e infusiones"
+86,Cacao soluble y chocolate a la taza
+81,Café cápsula y monodosis
+83,Café molido y en grano
+84,Café soluble y otras bebidas
+88,Té e infusiones
+3,Carne
+46,Arreglos
+38,Aves y pollo
+47,Carne congelada
+37,Cerdo
+42,Conejo y cordero
+43,Embutido
+44,Hamburguesas y picadas
+40,Vacuno
+45,Empanados y elaborados
+7,Cereales y galletas
+78,Cereales
+80,Galletas
+79,Tortitas
+4,Charcutería y quesos
+48,Aves y jamón cocido
+52,Bacón y salchichas
+49,Chopped y mortadela
+51,Embutido curado
+50,Jamón serrano
+58,Paté y sobrasada
+54,"Queso curado, semicurado y tierno"
+56,"Queso lonchas, rallado y en porciones"
+53,Queso untable y fresco
+17,Congelados
+147,Arroz y pasta
+148,Carne
+154,Helados
+155,Hielo
+150,Marisco
+149,Pescado
+151,Pizzas
+884,Rebozados
+152,Tartas y churros
+145,Verdura
+14,"Conservas, caldos y cremas"
+122,Atún y otras conservas de pescado
+123,Berberechos y mejillones
+127,Conservas de verdura y frutas
+130,Gazpacho y cremas
+129,Sopa y caldo
+126,Tomate
+21,Cuidado del cabello
+201,Acondicionador y mascarilla
+199,Champú
+203,Coloración cabello
+202,Fijación cabello
+20,Cuidado facial y corporal
+192,Afeitado y cuidado para hombre
+189,Cuidado corporal
+185,Cuidado e higiene facial
+191,Depilación
+188,Desodorante
+187,Gel y jabón de manos
+186,Higiene bucal
+190,Higiene íntima
+194,Manicura y pedicura
+196,Perfume y colonia
+198,Protector solar y aftersun
+23,Fitoterapia y parafarmacia
+213,Fitoterapia
+214,Parafarmacia
+1,Fruta y verdura
+27,Fruta
+28,Lechuga y ensalada preparada
+29,Verdura
+6,"Huevos, leche y mantequilla"
+77,Huevos
+72,Leche y bebidas vegetales
+75,Mantequilla y margarina
+26,Limpieza y hogar
+226,Detergente y suavizante ropa
+237,"Estropajo, bayeta y guantes"
+241,Insecticida y ambientador
+234,Lejía y líquidos fuertes
+235,Limpiacristales
+233,Limpiahogar y friegasuelos
+231,Limpieza baño y WC
+230,Limpieza cocina
+232,Limpieza muebles y multiusos
+229,Limpieza vajilla
+243,Menaje y conservación de alimentos
+238,Papel higiénico y celulosa
+239,Pilas y bolsas de basura
+244,Utensilios de limpieza y calzado
+22,Maquillaje
+206,Bases de maquillaje y corrector
+207,Colorete y polvos
+208,Labios
+210,Ojos
+212,Pinceles y brochas
+2,Marisco y pescado
+32,Marisco
+34,Pescado congelado
+31,Pescado fresco
+36,Salazones y ahumados
+789,Sushi
+25,Mascotas
+222,Gato
+221,Perro
+225,Otros
+5,Panadería y pastelería
+65,Bollería de horno
+66,Bollería envasada
+69,Harina y preparado repostería
+59,Pan de horno
+60,Pan de molde y otras especialidades
+62,Pan tostado y rallado
+64,"Picos, rosquilletas y picatostes"
+68,Tartas y pasteles
+71,Velas y decoración
+16,Pizzas y platos preparados
+897,Listo para Comer
+138,Pizzas
+140,Platos preparados calientes
+142,Platos preparados fríos
+11,Postres y yogures
+105,Bífidus
+110,Flan y natillas
+111,Gelatina y otros postres
+106,Postres de soja
+103,Yogures desnatados
+109,Yogures griegos
+108,Yogures líquidos
+104,Yogures naturales y sabores
+107,Yogures y postres infantiles
+10,Zumos
+99,Fruta variada
+100,Melocotón y piña
+143,Naranja
+98,Tomate y otros sabores
